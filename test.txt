@@ -1,2 +1,3 @@
 nowy
 something new rebased
+changes done in second working copy
