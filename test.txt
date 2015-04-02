@@ -2,3 +2,4 @@ nowy
 everything
 changes done in second working copy
 and changes in first working copy
+the last
