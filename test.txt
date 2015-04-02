@@ -2,6 +2,6 @@ nowy
 everything
 changes done in second working copy
 and changes in first working copy
-doing in second wc
-version2334
-and modif v2
+the last
+version1111
+and modif v111
