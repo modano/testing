@@ -3,5 +3,5 @@ everything
 changes done in second working copy
 and changes in first working copy
 the last
-version2
-and modif v2
+version1
+and modif v1
